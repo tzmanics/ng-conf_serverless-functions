@@ -17,7 +17,6 @@ I work with serverless architecture a ton and am stoked to bring it into your st
 If you're here for the workshop, this is what we'll be doing:
 
 - [Introduction to the serverless approach](./walkthroughs/why-serverless/)
-- [Building and deploying an Angular Universal application](./walkthroughs/build-and-deploy/)
 - [Creating our first serverless functions](./walkthroughs/first-function/)
 - [Setting up the Headless CMS via Sanity.io](./walkthroughs/setting-up-a-headless-cms/)
 - Lunch
