@@ -1,6 +1,6 @@
 # Serverless Angular Workshop
 
-This is the repo for the [Frontend Masters](https://frontendmasters.com/) Serverless Angular workshop. The `main` branch features the finished project that you can check out at [https://serverless-angular-workshop.netlify.app](https://serverless-angular-workshop.netlify.app).
+This is the repo for the ng-conf Serverless Angular workshop. The `main` branch features the finished project that you can check out at [https://serverless-angular-workshop.netlify.app](https://serverless-angular-workshop.netlify.app).
 
 ## Who is this?
 
